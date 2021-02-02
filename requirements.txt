@@ -1,0 +1,6 @@
+pandas
+streamlit
+sklearn
+Pillow
+
+streamlit run Driver.py
